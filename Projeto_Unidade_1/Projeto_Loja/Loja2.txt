@@ -1,0 +1,8 @@
+LISTALIVROS 3
+L: "O jogo da vida";$120;"Jose de Almeida"
+L: "Breaking Bad";$34;"Francisco"
+L: "Bernardo";$190;"Bernardo Fonseca"
+LISTACD 1
+C: "Hammstein";$23;"12"
+LISTADVD 1
+D: "A vida eh Bela";$19;"103"

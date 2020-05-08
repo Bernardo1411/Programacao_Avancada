@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1566437435 source:c:\users\berna_000\desktop\prova_1\main.cpp
+	<iostream>
+	"voos.h"
+
+1566437994 source:c:\users\berna_000\desktop\prova_1\voos.cpp
+	<iostream>
+	"voos.h"
+
+1566437575 c:\users\berna_000\desktop\prova_1\voos.h
+	<iostream>
+
+1566481737 source:c:\users\berna_000\dropbox\programação avançada\classes\prova_1\main.cpp
+	<iostream>
+	"voos.h"
+
+1566487955 c:\users\berna_000\dropbox\programação avançada\classes\prova_1\voos.h
+	<iostream>
+
+1566488071 source:c:\users\berna_000\dropbox\programação avançada\classes\prova_1\voos.cpp
+	<iostream>
+	"voos.h"
+

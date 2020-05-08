@@ -1,0 +1,7 @@
+Livros 3:
+L: Livro1;$10.0; Jose
+L: Livro2;$20.0; Joao
+L: Livro3;$30.0; Maria
+CDs 2:
+C: CD1;$5.00; Vitor
+C: CD2;$15.00; Vitoria

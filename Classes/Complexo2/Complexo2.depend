@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565360231 source:c:\users\berna_000\desktop\complexo2\main.cpp
+	<iostream>
+	"class.h"
+
+1565360933 c:\users\berna_000\desktop\complexo2\class.h
+	<iostream>
+

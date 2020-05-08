@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1566059108 source:c:\users\berna_000\dropbox\programação avançada\classes\racional\main.cpp
+	<iostream>
+	"racional.h"
+
+1566058951 c:\users\berna_000\dropbox\programação avançada\classes\racional\racional.h
+	<iostream>
+
+1566063706 source:c:\users\berna_000\dropbox\programação avançada\classes\racional\racional.cpp
+	<iostream>
+	"racional.h"
+

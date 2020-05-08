@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565444077 source:c:\users\berna_000\desktop\retan_class\main.cpp
+	<iostream>
+	"ponto.h"
+
+1565443761 c:\users\berna_000\desktop\retan_class\ponto.h
+	<iostream>
+
+1565443934 source:c:\users\berna_000\desktop\retan_class\ponto.cpp
+	<iostream>
+	<cmath>
+	"ponto.h"
+

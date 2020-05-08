@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1568301873 source:c:\users\berna\dropbox\programação avançada\projeto_unidade_1\projeto_loja\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<fstream>
+	"loja_heranca.h"
+
+1567615124 nca.h"
+
+1568304538 c:\users\berna\dropbox\programação avançada\projeto_unidade_1\projeto_loja\loja_heranca.h
+	<iostream>
+	<string>
+
+1568151652 
+
+1568302322 source:c:\users\berna\dropbox\programação avançada\projeto_unidade_1\projeto_loja\loja_heranca.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+	<fstream>
+
+1567604324 source:c:\users\bernardo-pesq-a\dropbox\programação avançada\projeto_unidade_1\projeto_loja\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+
+1568140853 c:\users\bernardo-pesq-a\dropbox\programação avançada\projeto_unidade_1\projeto_loja\loja_heranca.h
+	<iostream>
+	<string>
+
+1567615124 source:c:\users\ufrnlab\desktop\projeto_loja\main.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+
+1568151652 c:\users\ufrnlab\desktop\projeto_loja\loja_heranca.h
+	<iostream>
+	<string>
+
+1568312672 source:/home/bernardo/Desktop/Loja/Projeto_Loja/main.cpp
+	<iostream>
+	<string>
+	<limits>
+	<fstream>
+	"loja_heranca.h"
+
+1568334597 /home/bernardo/Desktop/Loja/Projeto_Loja/loja_heranca.h
+	<iostream>
+	<string>
+
+1568335477 source:/home/bernardo/Desktop/Loja/Projeto_Loja/loja_heranca.cpp
+	<iostream>
+	<string>
+	<limits>
+	"loja_heranca.h"
+	<fstream>
+

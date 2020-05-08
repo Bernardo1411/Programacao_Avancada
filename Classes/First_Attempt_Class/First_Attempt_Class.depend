@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565275416 source:c:\users\berna_000\desktop\first_attempt_class\main.cpp
+	<iostream>
+	"classe_complex.h"
+
+1565275546 c:\users\berna_000\desktop\first_attempt_class\classe_complex.h
+	<iostream>
+
+1565276286 source:c:\users\berna_000\desktop\first_attempt_class\memb_func_class.cpp
+	<iostream>
+	<cmath>
+	"classe_complex.h"
+

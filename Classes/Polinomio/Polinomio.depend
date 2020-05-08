@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1566399597 source:c:\users\berna_000\dropbox\programação avançada\classes\polinomio\main.cpp
+	<iostream>
+	"poly.h"
+
+1566401032 source:c:\users\berna_000\dropbox\programação avançada\classes\polinomio\poly.cpp
+	<iostream>
+	"poly.h"
+	<cmath>
+
+1566397519 c:\users\berna_000\dropbox\programação avançada\classes\polinomio\poly.h
+	<iostream>
+

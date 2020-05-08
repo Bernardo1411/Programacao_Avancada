@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1566319724 source:c:\users\berna_000\dropbox\programação avançada\classes\prova2019_1\main.cpp
+	<iostream>
+	"prova2019_1.h"
+
+1566319714 source:c:\users\berna_000\dropbox\programação avançada\classes\prova2019_1\prova2019_1.cpp
+	<iostream>
+	"prova2019_1.h"
+
+1566319714 c:\users\berna_000\dropbox\programação avançada\classes\prova2019_1\prova2019_1.h
+	<iostream>
+

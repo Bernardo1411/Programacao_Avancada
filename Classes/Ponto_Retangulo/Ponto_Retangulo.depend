@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1566055720 source:c:\users\berna_000\dropbox\programação avançada\classes\ponto_retangulo\main.cpp
+	<iostream>
+	"PontoRetangulo.h"
+
+1566052000 c:\users\berna_000\dropbox\programação avançada\classes\ponto_retangulo\ponto.h
+	<iostream>
+
+1566055935 source:c:\users\berna_000\dropbox\programação avançada\classes\ponto_retangulo\ponto_retangulo_func.cpp
+	<iostream>
+	"PontoRetangulo.h"
+	<cmath>
+
+1566053510 c:\users\berna_000\dropbox\programação avançada\classes\ponto_retangulo\ponto_retangulo.h
+	<iostream>
+
+1566056359 c:\users\berna_000\dropbox\programação avançada\classes\ponto_retangulo\pontoretangulo.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1566224726 source:c:\users\berna_000\dropbox\programação avançada\classes\vetorbooleanos\main.cpp
+	<iostream>
+	"vetorbool.h"
+
+1566224558 c:\users\berna_000\dropbox\programação avançada\classes\vetorbooleanos\vetorbool.h
+	<iostream>
+
+1566224599 source:c:\users\berna_000\dropbox\programação avançada\classes\vetorbooleanos\vetorbool.cpp
+	<iostream>
+	"vetorbool.h"
+

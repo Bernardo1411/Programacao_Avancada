@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1565964572 source:c:\users\berna_000\dropbox\programação avançada\classes\vetor\main.cpp
+	<iostream>
+	"vetor.h"
+
+1565966608 c:\users\berna_000\dropbox\programação avançada\classes\vetor\vetor.h
+	<iostream>
+
+1565967177 source:c:\users\berna_000\dropbox\programação avançada\classes\vetor\fvetor.cpp
+	<iostream>
+	"vetor.h"
+	<cmath>
+

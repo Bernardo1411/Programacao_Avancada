@@ -1,0 +1,8 @@
+LISTALIVROS 2
+L: "Anne";$30;"AnneFrank"
+L: "FornosH";$40;"Hittler"
+LISTACD 2
+C: "LinkinPark";$10;"10"
+C: "ACDC";$15;"9"
+LISTADVD 1
+D: "Barbie";$15;"95"
